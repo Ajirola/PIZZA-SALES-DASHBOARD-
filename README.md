@@ -103,6 +103,7 @@ The dataset provides detailed information about pizza orders over a given period
 📍 Applied slicers for interactive filtering by category and size
 
 ## 📈 Dashboard  
-![Screenshot](Screenshot_20250718_071456.png)
+![Screenshot](Screenshot_20250718-071456.jpg)
+
 
 
