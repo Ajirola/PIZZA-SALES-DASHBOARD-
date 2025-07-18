@@ -133,7 +133,7 @@ The dataset provides detailed information about pizza orders over a given period
 ✅ **Best and Worst Performing Pizzas**
 
 ✅ **Top Performers**:  
-**Thai Chicken Pizza** leads with 43,000 units sold, followed by **Barbecue Chicken** and **California Chicken**
+**Thai Chicken Pizza** leads with **43,000** units sold, followed by **Barbecue Chicken** and **California Chicken**
 
 ❌ **Lowest Performers**:  
 
@@ -142,7 +142,7 @@ The dataset provides detailed information about pizza orders over a given period
 Indicating potential areas to **improve** or **phased out underperforming varieties**.
 
 ## ✅ **Pizza size sales**
-**Large-sized** dominate sales **45.86%**, while **X-Large** contribute atleast **1.72%.**
+**Large-sized** dominate sales **45.89%**, while **X-Large** contribute atleast **1.72%.**
 
 This trends suggest that customers prefer **larger pizzas** over **regular** or **medium**, but the **extra large** might be too big or not cost effective for most customers.
 
@@ -151,7 +151,6 @@ This trends suggest that customers prefer **larger pizzas** over **regular** or 
 **Classic** dominate sales **26.91%**, followed by **Supreme**  **25.46%**. The least is **Veggie** **23.68%**.
 
 This indicates that customer preferences are **Classic & Supreme**
-
 
 
 ## ✅ **Sales trends by days**
@@ -179,7 +178,6 @@ These trends could correlate with seasonal events, holidays or marketing campaig
 ## 👩🏽‍💻 Contact:
 Created by: **Ajirola Amudat**  
 _Data Analyst | Power BI Enthusiast_
-
 📧 For collaboration or inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/ajirola-amudat-a-3083882b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Screenshot](Screenshot_20250311-144911.jpg)
