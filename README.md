@@ -115,18 +115,21 @@ The dataset provides detailed information about pizza orders over a given period
 
 
 ## Insights gained 
-## ✅ **Best and Worst Performing Pizzas**
+✅ **Best and Worst Performing Pizzas**
 
-** ✅ Top Performers**:  
+✅ **Top Performers**:  
 **Thai Chicken Pizza** leads with 43,000 units sold, followed by **Barbecue Chicken** and **California Chicken**
 
-** ❌ Lowest Performers**:  
+❌ **Lowest Performers**:  
 
 **Brie Carre Pizza** is the least popular with only **11,600** units sold, others include **Spinach-based varieties**
 
 Indicating potential areas to **improve** or **phased out underperforming varieties**.
 
 ## ✅ **Pizza size sales**
-Large-sized dominate sales **45.86**, while X-Large contribute atleast 1.72%.
+**Large-sized** dominate sales **45.86**, while **X-Large** contribute atleast **1.72%.**
 
-This trends suggest that customers prefer larger pizzas over regular or medium, but the extra large might be too big or not cost effective for most customers.
+This trends suggest that customers prefer **larger pizzas** over **regular** or **medium**, but the **extra large** might be too big or not cost effective for most customers.
+
+
+## ✅ **Pizza Category sales**
