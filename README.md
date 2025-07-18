@@ -136,3 +136,16 @@ This trends suggest that customers prefer **larger pizzas** over **regular** or 
 **Classic** dominate sales **26.91%**, followed by **Supreme**  **25.46%**. The least is **Veggie** **23.68%**.
 
 This indicates that customer preferences are **Classic & Supreme**
+
+
+
+## ✅ **Sales trends by days**
+The highest sales occurs on **friday**, while **Sunday** had the lowest sales 
+
+This indicates a strong **weekend effect**, with Fridays being popular for ordering pizza, potentially due end of week relaxation or  social gatherings.
+
+
+## ✅ **Monthly trends by sales**
+Sales **peaks** in **July** **72.6k**, while in **October** sales dips to the lowest**62.4k**.
+
+These trends could correlate with seasonal events, holidays or marketing campaigns influencing customer behavior 
