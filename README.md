@@ -66,7 +66,7 @@ The dataset was obtained from kaggle website
 
 Here's the link to the dataset: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 
-## 📦 Dataset Description
+## 🧾 Dataset Description
 The dataset provides detailed information about pizza orders over a given period.
 
 | Column Name         | Description                                                                 |
@@ -83,3 +83,26 @@ The dataset provides detailed information about pizza orders over a given period
 | **pizza_category**  | Indicates the category of the pizza, such as vegetarian, non-vegetarian, etc. |
 | **pizza_ingredients** | Provides a list or description of the ingredients used in the pizza.       |
 | **pizza_name**      | Specifies the name of the specific pizza variant ordered.                   |
+
+## 🛠️ Tools Used
+- **Power BI** – for interactive dashboards and visualizations  
+- **Microsoft Excel** – for initial data cleaning and formatting
+
+## 🧹 Data Cleaning
+📍 Removed duplicates and null values
+
+📍 Standardized pizza names, sizes, and categories  
+
+📍 Converted date columns to readable formats
+
+### Analysis & Visualization
+📍 Grouped and summarized data using DAX formulas in Power BI  
+
+📍 Built visualizations like bar charts, donut charts, and line graphs  
+
+📍 Applied slicers for interactive filtering by category and size
+
+## 📈 Dashboard  
+![Screenshot](Screenshot_20250718_071456.png)
+
+
