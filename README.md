@@ -60,3 +60,25 @@ This made it difficult to plan production, pricing, staffing, and promotions.
 📍 Pizza sales by category (Classic, Supreme, Chicken, Veggie)
 
 ## 📚 Data Source
+
+The dataset was obtained from kaggle website
+
+Here's the link to the dataset: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
+
+## 📦 Dataset Description
+The dataset provides detailed information about pizza orders over a given period.
+
+Column Name        | Description |
+|--------------------|-------------|
+| **pizza_id**       | A unique identifier for each distinct pizza variant available for order. |
+| **order_id**       | Unique ID for each customer order. One order may include multiple pizza variants. |
+| **pizza_name_id**  | Identifier that maps to a specific pizza name (useful for joining or grouping). |
+| **quantity**       | Number of units ordered for a specific pizza variant in a given order. |
+| **order_date**     | The date the customer placed the order (used for trend analysis). |
+| **order_time**     | The exact time the order was placed (useful for time-based patterns). |
+| **unit_price**     | The price of a single unit of the specific pizza variant. |
+| **total_price**    | Total cost of all units of a pizza variant within the order (`unit_price × quantity`). |
+| **pizza_size**     | Size of the pizza ordered (e.g., Small, Medium, Large, XL, XXL). |
+| **pizza_category** | Category of the pizza (e.g., Classic, Veggie, Supreme, Chicken). |
+| **pizza_ingredients** | List or description of ingredients used in the pizza. |
+| **pizza_name**     | The actual name of the pizza variant (e.g., Thai Chicken Pizza, Barbecue Chicken Pizza). |
