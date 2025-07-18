@@ -127,9 +127,12 @@ The dataset provides detailed information about pizza orders over a given period
 Indicating potential areas to **improve** or **phased out underperforming varieties**.
 
 ## ✅ **Pizza size sales**
-**Large-sized** dominate sales **45.86**, while **X-Large** contribute atleast **1.72%.**
+**Large-sized** dominate sales **45.86%**, while **X-Large** contribute atleast **1.72%.**
 
 This trends suggest that customers prefer **larger pizzas** over **regular** or **medium**, but the **extra large** might be too big or not cost effective for most customers.
 
 
 ## ✅ **Pizza Category sales**
+**Classic** dominate sales **26.91%**, followed by **Supreme**  **25.46%**. The least is **Veggie** **23.68%**.
+
+This indicates that customer preferences are **Classic & Supreme**
