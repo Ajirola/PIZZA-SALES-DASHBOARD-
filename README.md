@@ -177,9 +177,7 @@ These trends could correlate with seasonal events, holidays or marketing campaig
 5️⃣ **Introduce offers or discounts** on low-performing days (Sundays) and off-peak months (like September)
 
 ## 👩🏽‍💻 Contact:
-Created by:
-
-**Ajirola Amudat**  
+Created by: **Ajirola Amudat**  
 _Data Analyst | Power BI Enthusiast_
 
 📧 For collaboration or inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/ajirola-amudat-a-3083882b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
