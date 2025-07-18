@@ -114,7 +114,7 @@ The dataset provides detailed information about pizza orders over a given period
 | **Total Pizzas Sold**| 50,000       |
 
 
-## Insights gained 
+## 📊 Insights gained 
 ✅ **Best and Worst Performing Pizzas**
 
 ✅ **Top Performers**:  
@@ -146,6 +146,22 @@ This indicates a strong **weekend effect**, with Fridays being popular for order
 
 
 ## ✅ **Monthly trends by sales**
-Sales **peaks** in **July** **72.6k**, while in **October** sales dips to the lowest**62.4k**.
+Sales **peaks** in **July** **72.6k**, while in **October** sales **dips** to the lowest **62.4k**.
 
 These trends could correlate with seasonal events, holidays or marketing campaigns influencing customer behavior 
+
+## ✅ Recommendations
+1️⃣ **Promote top-performing pizzas** like **Thai Chicken and Barbecue Chicken**.
+
+2️⃣ **Reevaluate low-performers** like **Brie Carre Pizza and spinach-based varieties**.
+
+3️⃣ **Focus production on L and M sizes**, which make up over 75% of total sales.
+
+4️⃣ **Increase staffing and stock** for peak days **(Fridays)** and peak months **(June)**.
+
+5️⃣ **Introduce offers or discounts** on low-performing days (Sundays) and off-peak months (like September)
+
+## 👩🏽‍💻 Created By:
+**Ajirola Amudat**  
+_Data Analyst | Power BI Enthusiast_
+
