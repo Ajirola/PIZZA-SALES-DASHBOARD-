@@ -28,6 +28,7 @@ A pizza company wanted to better understand customer preferences and improve bus
 
 ## ❓ Problem Statement
 The business lacked visibility into:
+
 📍 Which pizzas perform best or worst
 
 📍Customer preferences for pizza sizes and flavors
@@ -68,17 +69,17 @@ Here's the link to the dataset: https://www.kaggle.com/datasets/nextmillionaire/
 ## 📦 Dataset Description
 The dataset provides detailed information about pizza orders over a given period.
 
-Column Name        | Description |
-|--------------------|-------------|
-| **pizza_id**       | A unique identifier for each distinct pizza variant available for order. |
-| **order_id**       | Unique ID for each customer order. One order may include multiple pizza variants. |
-| **pizza_name_id**  | Identifier that maps to a specific pizza name (useful for joining or grouping). |
-| **quantity**       | Number of units ordered for a specific pizza variant in a given order. |
-| **order_date**     | The date the customer placed the order (used for trend analysis). |
-| **order_time**     | The exact time the order was placed (useful for time-based patterns). |
-| **unit_price**     | The price of a single unit of the specific pizza variant. |
-| **total_price**    | Total cost of all units of a pizza variant within the order (`unit_price × quantity`). |
-| **pizza_size**     | Size of the pizza ordered (e.g., Small, Medium, Large, XL, XXL). |
-| **pizza_category** | Category of the pizza (e.g., Classic, Veggie, Supreme, Chicken). |
-| **pizza_ingredients** | List or description of ingredients used in the pizza. |
-| **pizza_name**     | The actual name of the pizza variant (e.g., Thai Chicken Pizza, Barbecue Chicken Pizza). |
+| Column Name         | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **pizza_id**        | A unique identifier assigned to each distinct pizza variant available for ordering. |
+| **order_id**        | A unique identifier for each order made, which links to multiple pizzas.    |
+| **pizza_name_id**   | An identifier linking to a specific name of the pizza.                      |
+| **quantity**        | The number of units of a specific pizza variant ordered within an order.    |
+| **order_date**      | The date when the order was placed.                                         |
+| **order_time**      | The time when the order was placed.                                         |
+| **unit_price**      | The cost of a single unit of the specific pizza variant.                    |
+| **total_price**     | The aggregated cost of all units of a specific pizza variant in an order.   |
+| **pizza_size**      | Represents the size of the pizza (e.g., small, medium, large).              |
+| **pizza_category**  | Indicates the category of the pizza, such as vegetarian, non-vegetarian, etc. |
+| **pizza_ingredients** | Provides a list or description of the ingredients used in the pizza.       |
+| **pizza_name**      | Specifies the name of the specific pizza variant ordered.                   |
