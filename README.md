@@ -9,10 +9,22 @@
 - [Problem Statement](#problem-statement)
   
 - [Objective](#objective)
+ 
+- [Key areas analyzed]()
+
+- [Data Source]()
+
+- [Data Description]()
   
 - [Tools Used](#tools-used)
+
+- [Data cleaning]()
+  
+- [Analysis and visualization]()
   
 - [Dashboard](#dashboard)
+ 
+- [Key metrics]()
   
 - [Insights Gained](#insights-gained)
   
@@ -20,11 +32,12 @@
   
 - [Contact](#contact)
 
-## 📌 Project Overview
-This Power BI dashboard was built to analyze a pizza company's sales data. It uncovers which pizzas are the most and least popular, when customers are most likely to order, and what size and flavor categories are preferred. It supports smarter business decisions based on clear visual insights.
 
 ## 📄 Description
 A pizza company wanted to better understand customer preferences and improve business decisions using sales data. This dashboard brings their data to life revealing key patterns across products, time, and customer choices.
+
+## 📌 Project Overview
+This Power BI dashboard was built to analyze a pizza company's sales data. It uncovers which pizzas are the most and least popular, when customers are most likely to order, and what size and flavor categories are preferred. It supports smarter business decisions based on clear visual insights.
 
 ## ❓ Problem Statement
 The business lacked visibility into:
@@ -105,6 +118,8 @@ The dataset provides detailed information about pizza orders over a given period
 ## 📈 Dashboard  
 ![Screenshot](Screenshot_20250718-071456.jpg)
 
+
+
 ## 🔢 Key Metrics
 
 | Metric               | Value       |
@@ -150,7 +165,7 @@ Sales **peaks** in **July** **72.6k**, while in **October** sales **dips** to th
 
 These trends could correlate with seasonal events, holidays or marketing campaigns influencing customer behavior 
 
-## ✅ Recommendations
+## ✍️ Recommendations
 1️⃣ **Promote top-performing pizzas** like **Thai Chicken and Barbecue Chicken**.
 
 2️⃣ **Reevaluate low-performers** like **Brie Carre Pizza and spinach-based varieties**.
@@ -161,7 +176,15 @@ These trends could correlate with seasonal events, holidays or marketing campaig
 
 5️⃣ **Introduce offers or discounts** on low-performing days (Sundays) and off-peak months (like September)
 
-## 👩🏽‍💻 Created By:
+## 👩🏽‍💻 Contact:
+Created by:
+
 **Ajirola Amudat**  
 _Data Analyst | Power BI Enthusiast_
+
+📧 For collaboration or inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/ajirola-amudat-a-3083882b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+![Screenshot](Screenshot_20250311-144911.jpg)
+
+
 
