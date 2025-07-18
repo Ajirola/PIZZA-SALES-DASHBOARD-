@@ -105,5 +105,22 @@ The dataset provides detailed information about pizza orders over a given period
 ## 📈 Dashboard  
 ![Screenshot](Screenshot_20250718-071456.jpg)
 
+## 🔢 Key Metrics
 
+| Metric               | Value       |
+|----------------------|-------------|
+| **Total Sales**      | 818,000     |
+| **Total Orders**     | 21,000       |
+| **Total Pizzas Sold**| 50,000       |
+
+
+## Insights gained 
+## ✅ **Best and Worst Performing Pizzas**
+
+**Top Performers**:  
+**Thai Chicken Pizza** leads with 43,000 units sold, followed by **Barbecue Chicken** and **California Chicken**
+
+**Lowest Performers**:  
+
+**Brie Carre Pizza** is the least popular with only **11,600** units sold, others include **Spinach-based varieties**
 
